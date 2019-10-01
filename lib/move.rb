@@ -14,3 +14,4 @@ def input_to_index(input = "1"-"9")
   puts " #{input[3]} | #{input[4]} | #{input[5]} "
   puts "-----------"
   puts " #{input[6]} | #{input[7]} | #{input[8]} "
+end
