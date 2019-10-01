@@ -8,7 +8,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-def input_to_index(input = [1,2,3,4,5,6,7,8,9].to_i)
+def input_to_index(input = ["1".to_i,"2".to_i,"3".to_i,"4".to_i,"5".to_i,"6".to_i,"7".to_i,"8".to_i,"9".to_i])
   puts " #{input[0]} | #{input[1]} | #{input[2]} "
   puts "-----------"
   puts " #{input[3]} | #{input[4]} | #{input[5]} "
